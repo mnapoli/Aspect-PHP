@@ -1,0 +1,14 @@
+
+.DS_Store
+
+.buildpath
+
+.project
+
+.settings/*
+
+data/cache/*
+
+nbproject/*
+
+tests/fixture/compiled/*
